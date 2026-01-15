@@ -1,2 +1,5 @@
 kaggle
 kagglehub
+scikit-learn
+numpy
+nbstripout
