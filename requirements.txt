@@ -3,3 +3,4 @@ kagglehub
 scikit-learn
 numpy
 nbstripout
+ipykernel
