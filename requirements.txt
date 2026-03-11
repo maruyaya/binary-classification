@@ -5,3 +5,6 @@ numpy
 nbstripout
 ipykernel
 pillow
+matplotlib
+seaborn
+pandas
